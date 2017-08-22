@@ -23,7 +23,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="f8e2b2da-b49c-4924-a95a-92dd235347a6" name="ftp.martidolce.com" url="https://vacations.martidolce.com">
+      <webServer id="2648db7d-e876-40ed-966d-64ac777f73c0" name="vacations@martidolce" url="https://vacations.martidolce.com">
         <fileTransfer host="ftp.martidolce.com" port="21" rootFolder="/public_html/vacations">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
