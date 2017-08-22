@@ -1,0 +1,36 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO" hashKnownHosts="true">
+        <option name="hashHost" value="true" />
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="6a4a4ee8-0739-4afe-96b6-a1a454c1377b" name="rd-dev@flywheelsites.com" url="http://rd-dev.flywheelsites.com">
+        <fileTransfer host="sftp.flywheelsites.com" port="22" rootFolder="/mrsdo/rd-dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bfe0a4e3-d9a3-4ac0-9920-e097a71fe0f7" name="flywheel@rdg-ecom" url="https://musegain-demo.flywheelsites.com">
+        <fileTransfer host="sftp.flywheelsites.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f8e2b2da-b49c-4924-a95a-92dd235347a6" name="ftp.martidolce.com" url="https://vacations.martidolce.com">
+        <fileTransfer host="ftp.martidolce.com" port="21" rootFolder="/public_html/vacations">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
