@@ -23,16 +23,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="2648db7d-e876-40ed-966d-64ac777f73c0" name="vacations@martidolce" url="https://vacations.martidolce.com">
+      <webServer id="e735079d-af65-4e3c-806b-e6dcdaab4f0f" name="vacations.martidolce" url="https://vacations.martidolce.com">
         <fileTransfer host="ftp.martidolce.com" port="21" rootFolder="/public_html/vacations">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="01accdb7-56f1-4f3b-8579-1ccd7b2270ec" name="martidolce.com" url="https://vacations.martidolce.com">
-        <fileTransfer host="ftp.martidolce.com" port="21" rootFolder="/public_html/vacations">
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
