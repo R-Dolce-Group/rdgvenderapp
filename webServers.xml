@@ -42,6 +42,9 @@
       <webServer id="d04cc415-3141-4526-988e-98482b4994a1" name="Tenant_Portal" url="https://pantheonrdgfly.dev/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5557cdcb-de99-42d9-949d-a27d44df4828" name="woocom@Local.Flywheel" url="https://woocom.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

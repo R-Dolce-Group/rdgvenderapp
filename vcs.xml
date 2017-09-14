@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/mj163/rdolcegroup.com.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://codeserver.dev.c60b8145-24a5-498c-971b-b92b7116f79e@codeserver.dev.c60b8145-24a5-498c-971b-b92b7116f79e.drush.in:2222/woocom-work" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Google Drive/002.OPERATIONS/010.Projects/05-170822-wordpress" />
+    <option name="cloneParentDir" value="$USER_HOME$/Local Sites/woocom-work" />
   </component>
 </application>
