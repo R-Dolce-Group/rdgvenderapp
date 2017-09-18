@@ -2,6 +2,9 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="0787713a-b568-4566-8407-5487a0bdb0e9" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="ssh://dev.da7fbe8e-9d99-401c-a99c-0e22aba1eb9b@appserver.dev.da7fbe8e-9d99-401c-a99c-0e22aba1eb9b.drush.in:2222/usr/bin/php" id="035f86aa-2bc8-4122-aae2-027ad6ce43af" name="Remote PHP" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="appserver.dev.da7fbe8e-9d99-401c-a99c-0e22aba1eb9b.drush.in" PORT="2222" USERNAME="dev.da7fbe8e-9d99-401c-a99c-0e22aba1eb9b" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/srv/bindings/53d4113be3e542f1ae1153f3fd3add82/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
