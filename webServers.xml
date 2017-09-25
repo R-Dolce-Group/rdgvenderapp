@@ -23,14 +23,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="e735079d-af65-4e3c-806b-e6dcdaab4f0f" name="vacations.martidolce" url="https://vacations.martidolce.com">
-        <fileTransfer host="ftp.martidolce.com" port="21" rootFolder="/public_html/vacations">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="be1905ad-43b6-4c45-bebc-cfdbb381ebc2" name="Listable@pantheon.io" url="http://dev-listable-theme.pantheonsite.io">
         <fileTransfer host="appserver.dev.2d9d66d6-8adb-4667-ad5a-df9cfafe8250.drush.in" port="2222" rootFolder="/srv/bindings/d41b1cc5426744a7ade942c39a6e5dbd" accessType="SFTP">
           <advancedOptions>
@@ -40,9 +32,6 @@
         </fileTransfer>
       </webServer>
       <webServer id="5557cdcb-de99-42d9-949d-a27d44df4828" name="woocom@Local.Flywheel" url="https://woocom.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="a30c785d-d306-4ff2-9a3a-cd41d07522ad" name="properties@local.fly" url="https://properties.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
