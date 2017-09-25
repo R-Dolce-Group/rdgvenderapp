@@ -42,6 +42,9 @@
       <webServer id="5557cdcb-de99-42d9-949d-a27d44df4828" name="woocom@Local.Flywheel" url="https://woocom.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a30c785d-d306-4ff2-9a3a-cd41d07522ad" name="properties@local.fly" url="https://properties.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
