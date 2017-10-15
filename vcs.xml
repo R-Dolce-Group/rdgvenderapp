@@ -18,8 +18,12 @@
           <option name="url" value="git@github.com:R-Dolce-Group/rdgvenderapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mj163/web-migration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Local Sites/rdolcegroup/vendors/app" />
+    <option name="cloneParentDir" value="/Volumes/Homecloud/006-PROJECTS" />
   </component>
 </application>
