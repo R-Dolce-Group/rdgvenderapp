@@ -34,6 +34,9 @@
       <webServer id="5557cdcb-de99-42d9-949d-a27d44df4828" name="woocom@Local.Flywheel" url="https://woocom.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="20d4938d-1e79-4ea2-96be-ee84d431eed9" name="woocom-work" url="https://ortmirror.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
